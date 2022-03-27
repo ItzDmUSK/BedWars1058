@@ -510,35 +510,35 @@ public class Russian extends Language{
                 Arrays.asList("&7Your team permanently gains", "&7Sharpness I on all swords and", "&7axes!", "", "&7Cost: &b{cost} {currency}", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "armor").replace("{tier}", "tier-1"), "{color}Reinforced Armor I");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "armor").replace("{tier}", "tier-1"),
-                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "{tierColor}Tier 1: Protection I, &b{cost} {currency}",
-                        "&7Tier 2: Protection II, &b10 Diamonds",
-                        "&7Tier 3: Protection III, &b20 Diamonds",
-                        "&7Tier 4: Protection IV, &b30 Diamonds", ""));
+                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "{tierColor}Уровень 1: Защита I, &b{cost} {currency}",
+                        "&7Tier 2: Защита II, &b10 Diamonds",
+                        "&7Tier 3: Защита III, &b20 Diamonds",
+                        "&7Tier 4: Защита IV, &b30 Diamonds", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "armor").replace("{tier}", "tier-2"), "{color}Reinforced Armor II");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "armor").replace("{tier}", "tier-2"),
-                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aTier 1: Protection I, &b5 Diamonds",
-                        "{tierColor}Tier 2: Protection II, &b{cost} {currency}",
-                        "&7Tier 3: Protection III, &b20 Diamonds",
-                        "&7Tier 4: Protection IV, &b30 Diamonds", ""));
+                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aУровень 1: Защита I, &b5 Алмазов",
+                        "{tierColor}Уровень 2: Защита II, &b{cost} {currency}",
+                        "&7Tier 3: Защита III, &b20 Алмазов",
+                        "&7Tier 4: Защита IV, &b30 Алмазов", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "armor").replace("{tier}", "tier-3"), "{color}Reinforced Armor III");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "armor").replace("{tier}", "tier-3"),
-                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aTier 1: Protection I, &b5 Diamonds",
-                        "&aTier 2: Protection II, &b10 Diamonds",
-                        "{tierColor}Tier 3: Protection III, &b{cost} {currency}",
-                        "&7Tier 4: Protection IV, &b30 Diamonds", ""));
+                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aУровень 1: Защита I, &b5 Алмазов",
+                        "&aTier 2: Защита II, &b10 Diamonds",
+                        "{tierColor}Tier 3: Защита III, &b{cost} {currency}",
+                        "&7Tier 4: Защита IV, &b30 Diamonds", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "armor").replace("{tier}", "tier-4"), "{color}Reinforced Armor IV");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "armor").replace("{tier}", "tier-4"),
-                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aTier 1: Protection I, &b5 Diamonds",
-                        "&aTier 2: Protection II, &b10 Diamonds",
-                        "&aTier 3: Protection III, &b20 Diamonds",
-                        "{tierColor}Tier 4: Protection IV, &b{cost} {currency}", ""));
+                Arrays.asList("&7Your team permanently gains", "&7Protection on all armor pieces!", "", "&aУровень 1: Защита I, &b5 Алмазов",
+                        "&aTier 2: Защита II, &b10 Diamonds",
+                        "&aTier 3: Защита III, &b20 Diamonds",
+                        "{tierColor}Tier 4: Защита IV, &b{cost} {currency}", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "miner").replace("{tier}", "tier-1"), "{color}Maniac Miner I");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "miner").replace("{tier}", "tier-1"),
-                Arrays.asList("&7All players on your team", "&7permanently gain Haste.", "", "{tierColor}Tier 1: Haste I, &b{cost} {currency}",
+                Arrays.asList("&7All players on your team", "&7permanently gain Haste.", "", "{tierColor}Уровень 1: Haste I, &b{cost} {currency}",
                         "&7Tier 2: Haste II, &b6 Diamonds", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "miner").replace("{tier}", "tier-2"), "{color}Maniac Miner II");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "miner").replace("{tier}", "tier-2"),
-                Arrays.asList("&7All players on your team", "&7permanently gain Haste.", "", "&aTier 1: Haste I, &b4 Diamonds",
+                Arrays.asList("&7All players on your team", "&7permanently gain Haste.", "", "&aУровень 1: Haste I, &b4 Diamonds",
                         "{tierColor}Tier 2: Haste II, &b{cost} {currency}", ""));
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_NAME.replace("{name}", "heal-pool").replace("{tier}", "tier-1"), "{color}Heal Pool");
         yml.addDefault(Messages.UPGRADES_UPGRADE_TIER_ITEM_LORE.replace("{name}", "heal-pool").replace("{tier}", "tier-1"),
